@@ -1,0 +1,23 @@
+{
+  "name": "room",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voka/JQurey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/voka/JQurey/issues"
+  },
+  "homepage": "https://github.com/voka/JQurey#readme",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.9.1"
+  }
+}
